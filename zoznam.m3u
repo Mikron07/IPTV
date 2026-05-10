@@ -38,12 +38,6 @@ http://192.168.1.7:5000/play/OnePlay-3
 #EXTINF:-1, 14. ČT Sport
 http://192.168.1.7:5000/play/ct-sport
 
-#EXTINF:-1, 15. STVR Šport
-http://192.168.1.7:5000/play/stvr-sport
-
-#EXTINF:-1, 16. JOJ Šport
-http://192.168.1.7:5000/play/joj-sport
-
 #EXTINF:-1, 17. Sporty TV
 http://192.168.1.7:5000/play/sporty-tv
 
@@ -52,3 +46,6 @@ http://192.168.1.7:5000/play/M4-sport
 
 #EXTINF:-1, 19. M4 Sport 2
 http://192.168.1.7:5000/play/M4-sport2
+
+#EXTINF:-1, 20. Strike TV
+http://192.168.1.7:5000/play/strike-tv
